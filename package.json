@@ -1,19 +1,19 @@
 {
-  "name": "flat-nested-objects",
-  "version": "1.0.0",
-  "description": "This Package will flat the nested objects and make all key values pairs available to use at initial level",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Chetan-Bashetti/flat-nested-objects.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Chetan-Bashetti/flat-nested-objects/issues"
-  },
-  "homepage": "https://github.com/Chetan-Bashetti/flat-nested-objects#readme"
+	"name": "flat-nested-objects",
+	"version": "1.7.0",
+	"description": "This Package will flat the nested objects and make all key values pairs available to use at initial level",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Chetan-Bashetti/flat-nested-objects.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Chetan-Bashetti/flat-nested-objects/issues"
+	},
+	"homepage": "https://github.com/Chetan-Bashetti/flat-nested-objects#readme"
 }
