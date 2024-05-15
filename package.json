@@ -1,6 +1,6 @@
 {
 	"name": "flat-nested-objects",
-	"version": "1.9.0",
+	"version": "1.9.2",
 	"description": "This Package will flat the nested objects and make all key values pairs available to use at initial level",
 	"main": "index.js",
 	"scripts": {
@@ -15,5 +15,13 @@
 	"bugs": {
 		"url": "https://github.com/Chetan-Bashetti/flat-nested-objects/issues"
 	},
+	"keywords": [
+		"flat-nested-objects",
+		"flat-objects",
+		"flat objects JavaScript",
+		"nested objects",
+		"flat",
+		"objects flatten"
+	],
 	"homepage": "https://github.com/Chetan-Bashetti/flat-nested-objects#readme"
 }

@@ -4,8 +4,16 @@ This Package will flat the nested objects and make all key values pairs availabl
 
 ## Installation
 
+### Using NPM
+
 ```shell
 $ npm i flat-nested-objects
+```
+
+### Using YARN
+
+```shell
+$ yarn add flat-nested-objects
 ```
 
 ## Usage
