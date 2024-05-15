@@ -1,6 +1,6 @@
 {
 	"name": "flat-nested-objects",
-	"version": "1.7.0",
+	"version": "1.8.0",
 	"description": "This Package will flat the nested objects and make all key values pairs available to use at initial level",
 	"main": "index.js",
 	"scripts": {

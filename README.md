@@ -37,10 +37,10 @@ let complexObj = {
 };
 ```
 
-## Problem with above example
+## Problem Statement for the Above Example
 
 As you can see in above example the actual required key is in nth level which somtimes becomes complex to travel through object keys and reach the actual key to get the required value.
 
-## Soluation to above example
+## Solution for the Above Example
 
 In this kind of situation we can use <b>[flat-nested-objects](https://www.npmjs.com/package/flat-nested-objects)</b> library and pass the complex object to it as argument, the function will return required value at the 1st level when destructured.
