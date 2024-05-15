@@ -13,6 +13,9 @@ $ npm i flat-nested-objects
 ```js
 import flatNestedObjects from 'flat-nested-objects';
 const { actual_required_key } = flatNestedObjects(complexObj);
+
+output;
+console.log(actual_required_key); // Prints required_value
 ```
 
 ## Example
