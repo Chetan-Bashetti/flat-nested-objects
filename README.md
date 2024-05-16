@@ -1,6 +1,6 @@
 # flat-nested-objects
 
-This Package will flat the nested objects and make all key values pairs available to use at initial level
+This Package will flat the nested objects and returns a simple object that has all nested keys and their values available to use at initial level
 
 ## Installation
 
